@@ -1,4 +1,4 @@
-var search = document.querySelector('.search')var search = document.querySelector('.search');
+var search = document.querySelector('.search');
 var go = document.querySelector('.go');
 
 go.addEventListener('click', myFunction);
